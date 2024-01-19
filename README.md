@@ -4,7 +4,7 @@ Welcome to my Github profile! My name is Ethan, a data and coding enthusiast tha
 
 ... In the process of improving my Portfolio and improving theoretical knowledge of programming.
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; align-items: space-between;">
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20Linkedin!-0077b5)](https://www.linkedin.com/in/ethan-xu8/)
 
