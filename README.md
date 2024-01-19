@@ -4,6 +4,13 @@ Welcome to my Github profile! My name is Ethan, a data and coding enthusiast tha
 
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/ethan-xu8/)
 
+{
+"name": "Ethan Xu",
+"pronouns": "he/him",
+"location": "Vancouver, BC",
+"school": "UBC",
+}
+
 <!--
 **ethanxu8/ethanxu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
