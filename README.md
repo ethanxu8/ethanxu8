@@ -2,6 +2,8 @@
 
 Welcome to my Github profile! My name is Ethan, a data and coding enthusiast that is passioante about entreprenurship and biotechnology.
 
+... In the process of improving my Portfolio and improving theoretical knowledge of programming.
+
 <div style="display: flex; justify-content: space-between;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/ethan-xu8/)
