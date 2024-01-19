@@ -6,7 +6,7 @@ Welcome to my Github profile! My name is Ethan, a data and coding enthusiast tha
 
 <div style="display: flex; justify-content: space-between;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/ethan-xu8/)
+[![LinkedIn](https://img.shields.io/badge/Visit_my_website-blue?style=flat-square&logo=web&logoColor=white)](https://www.linkedin.com/in/ethan-xu8/)
 
 [![Visit my website!](https://img.shields.io/badge/Visit_my_website-blue?style=flat-square&logo=web&logoColor=white)](https://ethanxu-portfolio.vercel.app/)
 
