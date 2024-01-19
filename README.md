@@ -4,6 +4,8 @@ Welcome to my Github profile! My name is Ethan, a data and coding enthusiast tha
 
 [![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/ethan-xu8/)
 
+[![Visit my website](https://img.shields.io/badge/Visit_my_website-blue?style=flat-square&logo=web&logoColor=white)](https://ethanxu-portfolio.vercel.app/)
+
 - **Pronouns:** he/him
 - **Location:** Vancouver, BC
 - **School:** UBC
