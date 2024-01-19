@@ -1,7 +1,5 @@
 ### Hi there 👋 my name is Bob
 
-Welcome to my GitHub profile! My nam is Ethan, a data and coding enthusiast with a passion for entreprenurship and biotechnology.
-
 <!--
 **ethanxu8/ethanxu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
