@@ -6,9 +6,9 @@ Welcome to my Github profile! My name is Ethan, a data and coding enthusiast tha
 
 <div style="display: flex; justify-content: space-between;">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20Linkedin-0077b5)](https://www.linkedin.com/in/ethan-xu8/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20Linkedin!-0077b5)](https://www.linkedin.com/in/ethan-xu8/)
 
-[![Visit my website!](https://img.shields.io/badge/Visit_my_website-blue?style=flat-square&logo=web&logoColor=white)](https://ethanxu-portfolio.vercel.app/)
+[![Visit my website!](https://img.shields.io/badge/Visit%20my%20website!-8A2BE2)](https://ethanxu-portfolio.vercel.app/)
 
 </div>
 
