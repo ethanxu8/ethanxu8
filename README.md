@@ -7,6 +7,9 @@ Welcome to my Github profile! My name is Ethan, a data and coding enthusiast tha
 - **Pronouns:** he/him
 - **Location:** Vancouver, BC
 - **School:** UBC
+- **Major:** Cognitive Science (Systems)
+  Focus on Computer Science and Cognition
+- **Languages:** HTML, CSS, JavaScript, Python, R, BSL
 
 <!--
 **ethanxu8/ethanxu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
