@@ -4,13 +4,10 @@ Welcome to my Github profile! My name is Ethan, a data and coding enthusiast tha
 
 ... In the process of improving my Portfolio and improving theoretical knowledge of programming.
 
-<div style="display: flex; align-items: space-between;">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20Linkedin!-0077b5)](https://www.linkedin.com/in/ethan-xu8/)
-
-[![Visit my website!](https://img.shields.io/badge/Visit%20my%20website!-8A2BE2)](https://ethanxu-portfolio.vercel.app/)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ethan-xu8/"><img src="https://img.shields.io/badge/Connect%20on%20Linkedin!-0077b5" alt="LinkedIn"></a>
+  <a href="https://ethanxu-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Visit%20my%20website!-8A2BE2" alt="Visit my website"></a>
+</p>
 
 - **Pronouns:** he/him
 - **Location:** Vancouver, BC
