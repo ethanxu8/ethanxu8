@@ -7,8 +7,6 @@ Welcome to my Github profile! My name is Ethan, a data and coding enthusiast tha
 <p align="left">
   <a href="https://www.linkedin.com/in/ethan-xu8/"><img src="https://img.shields.io/badge/Connect%20on%20Linkedin!-0077b5" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-  <a href="https://ethanxu-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Visit%20my%20website!-8A2BE2" alt="Visit my website"></a>
-</p>
 
 - **Pronouns:** he/him
 - **Location:** Vancouver, BC
