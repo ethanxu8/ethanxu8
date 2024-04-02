@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome to my Github profile! My name is Ethan, a data and coding enthusiast that is passioante about entreprenurship and biotechnology.
+Welcome to my GitHub profile! My name is Ethan, a student passionate about Data Analytics, Product Management, and entrepreneurship. 
 
-... Currently in the process of enhancing my portfolio and improving my theoretical knowledge of programming.
+... Currently a Market Analyst intern at 911 Supply and exploring entrepreneurship (e-commerce and investment analysis). 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ethan-xu8/"><img src="https://img.shields.io/badge/Connect%20on%20Linkedin!-0077b5" alt="LinkedIn"></a>
