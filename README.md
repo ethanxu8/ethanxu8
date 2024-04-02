@@ -9,7 +9,7 @@ Welcome to my GitHub profile! My name is Ethan, a student passionate about Data 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 
 - **Pronouns:** he/him
-- **Location:** Vancouver, BC
+- **Location:** Vancouver, BC, CAN
 - **School:** UBC
 - **Major:** Cognitive Science (Systems) - Focus on Data Science and Computer Science 
 - **Languages:** Python, R, HTML, CSS, JavaScript, BSL
