@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! My name is Ethan, a student passionate about Data Analytics, Product Management, and entrepreneurship. 
+Welcome to my GitHub profile! My name is Ethan, a third-year student at UBC passionate about Data Analytics, Product Management, Software Engineering, and entrepreneurship. 
 
 ... Currently a Business Analyst intern at 911 Supply and exploring entrepreneurship (e-commerce and investment analysis). 
 
