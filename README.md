@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! My name is Ethan, a third-year student at UBC passionate about Data Analytics, Product Management, Software Engineering, and entrepreneurship. 
 
-... Currently a Business Analyst intern at 911 Supply and exploring entrepreneurship (e-commerce and investment analysis). 
+... Incoming Data Science intern at Telus. 
 
 - **Pronouns:** he/him
 - **Location:** Vancouver, BC, CAN
