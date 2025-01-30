@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! My name is Ethan, a third-year student at UBC passionate about Data Analytics, Product Management, Software Engineering, and entrepreneurship. 
+Welcome to my GitHub profile! My name is Ethan, a third-year student at UBC passionate about Data Science, Machine Learning, Technical Project/Product/Program Management. 
 
 ... Incoming Data Science intern at Telus. 
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! My name is Ethan, a third-year student at UBC pass
 - **Location:** Vancouver, BC, CAN
 - **School:** UBC
 - **Major:** Cognitive Science (Systems) - Focus on Data Science and Computer Science 
-- **Languages:** Python, R, HTML, CSS, JavaScript, BSL
+- **Languages:** Python, R, Java, HTML, CSS, JavaScript, BSL, C#
 
 
 ## 🌐 Socials:
